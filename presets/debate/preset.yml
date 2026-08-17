@@ -1,0 +1,3 @@
+name: 辩论模式
+description: 标准模式 + 开启 Codex 与 Claude Code 两路产品子代理，用于多模型架构讨论。
+order: 5

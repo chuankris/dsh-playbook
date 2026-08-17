@@ -1,0 +1,12 @@
+# 凭据与本地状态（绝不进仓库）
+.credentials.yaml
+.anonymous-user-id
+sessions/
+storages/
+settings.yaml
+
+# 机器本地备份
+*.bak.*
+
+# 系统文件
+.DS_Store
